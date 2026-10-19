@@ -1,0 +1,4230 @@
+{
+  "head" : {
+    "vars" : [ "item", "ukprn", "coord", "website", "itemLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q76473"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Southampton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007158"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.39595 50.93463)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://southampton.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132478"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oxford Brookes University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004930"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.2227 51.754266666)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.brookes.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174570"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London School of Economics and Political Science"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004063"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.116666666 51.513888888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://lse.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2738646"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Lincoln"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007151"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.5501933 53.2279107)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lincoln.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2744209"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Portsmouth"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007155"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.0936 50.7953)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://port.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3036648"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Worcester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007139"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.243611111 52.198055555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://worcester.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3047150"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Bedfordshire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007152"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.411389 51.8778)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://beds.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34433"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Oxford"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007774"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.255 51.755)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://ox.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35794"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Cambridge"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007788"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.113157269 52.205355979)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cam.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2598272"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University for the Creative Arts"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006427"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.805373 51.2150866)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uca.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2738622"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Salford"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007156"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.271388888 53.484444444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.salford.ac.uk/homepage.html"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2738622"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Salford"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007156"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.271388888 53.484444444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.salford.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503424"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Leeds"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007795"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.551666666 53.807222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://leeds.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q528231"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goldsmiths, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10002718"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.035411111 51.474269444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gold.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3183295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Derby"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007851"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.49648 52.9388)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.derby.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3228965"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leeds Arts University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003854"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.5517 53.8084)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.leeds-art.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3400501"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wrexham University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007833"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.006 53.054)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.wrexham.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3442365"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rose Bruford College"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005523"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.1067683 51.4390917)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bruford.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3442365"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rose Bruford College"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005523"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.10666667 51.43888889)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bruford.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24661246"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Suffolk"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10014001"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.1635 52.0525)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://uos.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3056815"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Huddersfield"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007148"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.77837 53.6432)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://hud.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3056813"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Brighton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000886"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.117569 50.845022)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bton.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3056813"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Brighton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000886"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.117569 50.845022)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.brighton.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189022"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Imperial College London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003270"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.176882 51.498308)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.imperial.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q540751"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anglia Ruskin University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000291"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.133694444 52.203083333)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://aru.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q546976"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Surrey"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007160"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.589444444 51.243055555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.surrey.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160302"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Edinburgh"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007790"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.187194444 55.947388888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ed.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551774"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Wales Trinity Saint David"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007858"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.32798 51.85865)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uwtsd.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3695681"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norwich University of the Arts"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004775"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.2966 52.6303)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nua.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3695910"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Teesside University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007161"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.2349 54.5722)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.tees.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3695910"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Teesside University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007161"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.2352416 54.5706383)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.tees.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4710828"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newman University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007832"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9938 52.4336)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.newman.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4710828"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newman University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007832"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9936128 52.4329957)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.newman.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4836273"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BPP University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10031982"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.223056 51.505)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bpp.com/university"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4917580"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lincoln Bishop University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007811"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.5364247 53.2438226)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lincolnbishop.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4917580"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lincoln Bishop University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007811"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.537 53.244)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lincolnbishop.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192775"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Glasgow"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007794"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.288055555 55.872222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://gla.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220144"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SOAS, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007780"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.129 51.52205)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://soas.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q223429"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Birmingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006840"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.930555555 52.450555555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://birmingham.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170027"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.1308206 51.5229378)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.london.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170027"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.128888888 51.521111111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.london.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q748106"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Glasgow School of Art"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10002681"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.263746379 55.866050411)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gsa.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750066"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aston University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007759"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.8895 52.486)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.aston.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230899"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Manchester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007798"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.231944444 53.466111111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://manchester.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1138080"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coventry University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001726"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.505555555 52.408055555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.coventry.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1161297"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Sussex"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007806"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.085555555 50.865277777)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.sussex.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q245247"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "King's College London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003645"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.116111111 51.511944444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kcl.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q262854"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Lancaster"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007768"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.788238888 54.010661111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lancaster.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q262854"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Lancaster"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007768"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.788238888 54.010661111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lancs.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762243"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Chester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007848"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.898055555 53.200277777)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chester.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762243"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Chester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007848"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.898055555 53.200277777)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www1.chester.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q790029"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangor University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007857"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.1301 53.2289)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bangor.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q823917"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Sheffield"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007157"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.488805555 53.380722222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://sheffield.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5038449"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff Metropolitan University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007854"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.1649 51.4843)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cardiffmet.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5432602"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Falmouth University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10008640"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-5.070685 50.149165)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.falmouth.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5432602"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Falmouth University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10008640"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-5.12528 50.1708)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.falmouth.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5663364"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harper Adams University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10040812"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.42752 52.7797)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.haac.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5663364"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harper Adams University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10040812"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.42752 52.7797)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.harper-adams.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7205783"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arts University Plymouth"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005127"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.137 50.373)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.plymouthart.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7296496"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ravensbourne University London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005389"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.0057496 51.5016728)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ravensbourne.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q270532"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Aberdeen"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007783"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.1 57.165)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://abdn.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837164"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newcastle University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007799"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.615 54.978)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ncl.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q193196"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University College London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007784"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.133611111 51.524722222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ucl.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3445856"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Royal Agricultural University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005545"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.994646 51.709324)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rau.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3547145"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birmingham City University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007140"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.898055555 52.517222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bcu.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3547145"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birmingham City University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007140"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.898055555 52.517222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bcu.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551402"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "De Montfort University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001883"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.13897 52.62973)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dmu.ac.uk/home.aspx"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551402"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "De Montfort University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001883"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.1396424 52.6298007)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://dmu.ac.uk/home.aspx"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551402"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "De Montfort University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001883"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.13897 52.62973)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dmu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551402"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "De Montfort University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001883"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.1396424 52.6298007)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dmu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551577"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Chichester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007137"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.7728918 50.8450307)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chi.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551577"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Chichester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007137"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.77442 50.8447)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chi.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551690"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Winchester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003614"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.3282474 51.0597413)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.winchester.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551690"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Winchester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003614"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.3282474 51.0597413)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.wkac.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q289348"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London South Bank University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004078"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.10154 51.4981)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.southbank-university.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q289348"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London South Bank University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004078"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.10154 51.4981)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lsbu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q319761"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aberystwyth University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007856"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.06576 52.41806)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.aber.ac.uk/en/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7330738"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Richmond, The American International University in London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005470"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.2738 51.4932)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.richmond.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7435613"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scotland's Rural College"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005700"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.sruc.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7714615"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arts University Bournemouth"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000385"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.89781 50.7414)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://aub.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894613"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University College Birmingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000712"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9062 52.4817)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bcftcs.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894613"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University College Birmingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000712"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9063332 52.4813851)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bcftcs.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894613"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University College Birmingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000712"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9062 52.4817)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ucb.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894613"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University College Birmingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000712"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.9063332 52.4813851)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ucb.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894637"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Marjon University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10037449"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.11 50.4206)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.marjon.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7894637"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Marjon University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10037449"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.11 50.4206)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://marjon.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8038568"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Writtle College"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007657"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.427964 51.736605)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.writtle.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8038568"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Writtle College"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007657"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.4146 51.7399)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.writtle.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8055565"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "York St John University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007713"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.0800959 53.9649139)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.yorksj.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9357897"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Law"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10039956"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.college-of-law.co.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1202039"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Royal Holloway, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005553"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.566731 51.4248)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://royalholloway.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1247544"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Westminster"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007165"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.143055555 51.516944444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.westminster.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1627967"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liverpool John Moores University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003957"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.97 53.403)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ljmu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1668871"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liverpool Institute for Performing Arts"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003945"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.972306 53.399573)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lipa.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1683230"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Greater Manchester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006841"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.435833333 53.573611111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bolton.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865528"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Warwick"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007163"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.561930555 52.380080555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://warwick.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865528"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Warwick"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007163"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.561930555 52.380080555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.warwick.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q915989"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queen Margaret University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005337"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.07302 55.9313)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.qmu.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q195668"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Queen Mary University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007775"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.0403745 51.5240671)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://qmul.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216273"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of St Andrews"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007803"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.793011 56.341214)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://st-andrews.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1249005"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Dundee"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007852"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.980277777 56.457222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dundee.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1277357"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edinburgh Napier University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007772"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.228033 55.922939)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.napier.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q375606"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birkbeck, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007760"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.13032533 51.521876306)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://bbk.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q448403"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buckinghamshire New University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000975"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.752 51.628)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bcuc.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q448403"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buckinghamshire New University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000975"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.752 51.628)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bucks.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q458393"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Durham University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007143"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.575 54.775)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://durham.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1711558"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Plymouth"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007801"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.138512 50.374121)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.plymouth.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1737734"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keele University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007767"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.273 53.003)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.keele.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1745633"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Hertfordshire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007147"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.243888888 51.753333333)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.herts.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q932411"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brunel University London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000961"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.472777777 51.532777777)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.brunel.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q937482"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edge Hill University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007823"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.873835 53.559624)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://edgehill.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q939607"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Roehampton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007776"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.2431 51.4566)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.roehampton.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q954035"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Bradford"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007785"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.767211111 53.79155)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.brad.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1296153"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of the West of Scotland"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007800"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.081743622 55.945113084)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uws.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1333399"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Leicester"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007796"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.124444444 52.621388888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://le.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963530"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Stirling"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007804"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.9195 56.1455)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.stir.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q459506"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Bristol"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007786"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.604444444 51.456388888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://bristol.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1345942"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of East London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007144"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.063869444 51.507969444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.uel.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1353139"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Glasgow Caledonian University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007762"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.250194444 55.867194444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gcu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1414861"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Exeter"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007792"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.535 50.736111111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://info.ex.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1414861"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Exeter"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007792"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.535 50.736111111)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.exeter.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1752117"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sheffield Hallam University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005790"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.464706 53.379105)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.shu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1760791"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Middlesex University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004351"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.2282466 51.5893495)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mdx.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2503809"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingston University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003678"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.3039 51.4035)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kingston.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1419737"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guildhall School of Music and Drama"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007825"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.0923 51.5194)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gsmd.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q967165"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of York"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007167"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.0525 53.94659)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://york.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1035745"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007814"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.178230555 51.487433333)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cardiff.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q499510"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Liverpool"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006842"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.967 53.406)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://liverpool.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q499510"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Liverpool"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006842"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.967 53.406)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.liverpool.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3091754"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bath Spa University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000571"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.438333333 51.375555555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://bathspa.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3123462"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Northampton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007138"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.8903969 52.2506414)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.nene.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3123462"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Northampton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007138"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.8903969 52.2506414)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.northampton.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3182943"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bournemouth University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10000824"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.8969 50.7432)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bournemouth.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3182956"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canterbury Christ Church University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001143"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.089166666 51.279722222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.canterbury.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3182956"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canterbury Christ Church University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001143"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.089166666 51.279722222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.canterbury.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q472316"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Nottingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007154"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.196944444 52.938888888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nottingham.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1788342"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Gordon University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10005500"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.101361111 57.148030555)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rgu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1816202"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Wolverhampton"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007166"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.127222222 52.587222222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.wlv.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1816872"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Gloucestershire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007145"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.0888 51.8879)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.glos.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1816872"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Gloucestershire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007145"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.0888 51.8879)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.chelt.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1816872"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Gloucestershire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007145"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.0888 51.8879)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.glos.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1818020"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liverpool Hope University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003956"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.891928239 53.391463035)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.hope.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1849271"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leeds Trinity University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003863"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.647354 53.848795)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.leedstrinity.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1857773"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Lancashire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007141"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.7074 53.763)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uclan.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1859178"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Strathclyde"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007805"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.2416 55.8617)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.strath.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045828"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of East Anglia"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007789"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.241666666 52.621666666)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.uea.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1075104"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Essex"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007791"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(0.94942 51.87845)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.essex.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420500"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swansea University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007855"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.980555555 51.609722222)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.swansea.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1422458"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Bath"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007850"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.328 51.3796)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bath.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1422458"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Bath"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007850"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.328 51.3796)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.bath.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1432632"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Reading"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007802"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.945555555 51.441944444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.reading.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1432632"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Reading"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007802"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.945555555 51.441944444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.rdg.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1432632"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Reading"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007802"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.945555555 51.441944444)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.reading.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1861974"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Cumbria"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007842"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.92222 54.8908)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.cumbria.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1869028"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Metropolitan University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004048"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.110687 51.551574)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.londonmet.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1888771"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manchester Metropolitan University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004180"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.24 53.47)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mmu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1888771"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manchester Metropolitan University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004180"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.24 53.47)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mmu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1434547"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Loughborough University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004113"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.228611111 52.768333333)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lboro.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094046"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001478"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.102469444 51.527263888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://web.city.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094046"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City, University of London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001478"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.102469444 51.527263888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.city.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094742"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Sunderland"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007159"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.3914 54.9051)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.sunderland.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1896148"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Greenwich"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007146"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.003979 51.484468)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gre.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1971174"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of South Wales"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007793"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.169276168 51.479464371)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.southwales.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002520"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of the West of England"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007164"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.54749 51.50021)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.uwe.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002520"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of the West of England"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007164"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.5480446 51.5002821)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.uwe.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1470817"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of the Highlands and Islands"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007114"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-4.230616866 57.471082977)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uhi.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1474019"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Hull"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007149"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.36944 53.77167)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hull.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1505925"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Abertay Dundee"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007849"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.975204 56.463211)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.abertay.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002619"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nottingham Trent University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.1539858 52.958068)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ntu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002619"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nottingham Trent University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.15203 52.9564)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.ntu.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002619"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nottingham Trent University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.1539858 52.958068)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ntu.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002619"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nottingham Trent University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10004797"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.15203 52.9564)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ntu.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2007778"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of West London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006566"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.304166666 51.506388888)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.uwl.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2010561"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Buckingham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007787"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.991944444 51.995833333)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.buckingham.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2065666"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of the Arts London"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007162"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.116389 51.5178)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.arts.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2065695"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southampton Solent University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006022"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.401 50.908)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.solent.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2321391"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "St Mary's University, Twickenham"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007843"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.335 51.4376)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.stmarys.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2392351"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leeds Beckett University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10003861"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.549444444 53.804166666)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.leedsbeckett.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2413375"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Open University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007773"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-0.705555555 52.025)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.open.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2503794"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northumbria University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001282"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.608 54.9764)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.unn.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2503794"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northumbria University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10001282"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-1.608 54.9764)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.northumbria.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1516684"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Kent"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007150"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(1.069 51.297)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.kent.ac.uk"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1534573"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "University of Staffordshire"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10006299"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-2.18166113 53.00969696)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.staffs.ac.uk/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1610024"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Heriot-Watt University"
+      },
+      "ukprn" : {
+        "type" : "literal",
+        "value" : "10007764"
+      },
+      "coord" : {
+        "datatype" : "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type" : "literal",
+        "value" : "Point(-3.320113 55.909362)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hw.ac.uk/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subjects": [
+    {
+      "subject": "Computing",
+      "code": "CAH11-01",
+      "providerRecords": 124,
+      "publishedFiveYear": 108,
+      "mappedFiveYear": 107,
+      "benchmark": 39900.0
+    },
+    {
+      "subject": "Business and management",
+      "code": "CAH17-01",
+      "providerRecords": 140,
+      "publishedFiveYear": 132,
+      "mappedFiveYear": 128,
+      "benchmark": 35100.0
+    },
+    {
+      "subject": "Engineering",
+      "code": "CAH10-01",
+      "providerRecords": 107,
+      "publishedFiveYear": 94,
+      "mappedFiveYear": 93,
+      "benchmark": 43600.0
+    },
+    {
+      "subject": "Economics",
+      "code": "CAH15-02",
+      "providerRecords": 94,
+      "publishedFiveYear": 65,
+      "mappedFiveYear": 65,
+      "benchmark": 50900.0
+    },
+    {
+      "subject": "Law",
+      "code": "CAH16-01",
+      "providerRecords": 113,
+      "publishedFiveYear": 102,
+      "mappedFiveYear": 101,
+      "benchmark": 33700.0
+    },
+    {
+      "subject": "Creative arts and design",
+      "code": "CAH25-01",
+      "providerRecords": 114,
+      "publishedFiveYear": 94,
+      "mappedFiveYear": 94,
+      "benchmark": 27100.0
+    }
+  ],
+  "unlocated": [
+    {
+      "id": "10005451",
+      "name": "Arden University Limited"
+    },
+    {
+      "id": "10005700",
+      "name": "SRUC"
+    },
+    {
+      "id": "10007820",
+      "name": "Grwp Llandrillo Menai"
+    },
+    {
+      "id": "10008173",
+      "name": "University College of Estate Management"
+    },
+    {
+      "id": "10025197",
+      "name": "University Centre Quayside Limited"
+    },
+    {
+      "id": "10039956",
+      "name": "The University of Law Limited"
+    },
+    {
+      "id": "10080811",
+      "name": "Hartpury University"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "10039956",
+      "subject": "business",
+      "period": "three"
+    },
+    {
+      "id": "10039956",
+      "subject": "law",
+      "period": "three"
+    }
+  ]
+}

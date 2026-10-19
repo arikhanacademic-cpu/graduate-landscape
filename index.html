@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f5f3eb" />
+  <meta name="description" content="Explore the graduate earnings landscape: an interactive contour and 3D map of university outcomes across Great Britain, using official LEO data." />
+  <title>The Graduate Landscape — university outcomes, mapped</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <a class="skip-link" href="#explorer">Skip to the map explorer</a>
+  <header class="site-header">
+    <a href="./" class="brand" aria-label="The Graduate Landscape home">
+      <svg class="brand-mark" viewBox="0 0 48 42" aria-hidden="true"><path d="M2 37Q10 30 13 20T25 3Q34 7 36 20T46 37Z M8 33Q15 27 17 18T25 9Q31 12 32 22T40 33Z M16 29Q21 22 21 18T25 15Q29 20 31 29Z"/></svg>
+      <span>The Graduate<br><strong>Landscape</strong></span>
+    </a>
+    <nav aria-label="Main"><button class="text-button" id="about-button">About the data <span aria-hidden="true">↗</span></button><button class="outline-button" id="export-button"><span aria-hidden="true">↓</span> Export poster</button></nav>
+  </header>
+  <main>
+    <section class="introduction" aria-labelledby="page-title">
+      <div><p class="eyebrow"><span class="status-dot"></span> A NEW PERSPECTIVE ON LIFE AFTER UNI</p><h1 id="page-title">Find your place.<br><em>Explore the possibilities.</em></h1></div>
+      <div class="intro-note"><p>What does life after a degree look like?<br>Explore a landscape shaped by graduate earnings.<br>Every hill is a university. Every height tells a story.</p><span class="data-stamp">OFFICIAL DfE DATA <span>·</span> TAX YEAR 2023–24</span></div>
+    </section>
+    <section id="explorer" class="explorer" aria-label="University earnings explorer">
+      <aside class="subject-rail" aria-label="Choose subject and university">
+        <p class="eyebrow">01 / CHOOSE YOUR SUBJECT</p>
+        <div id="subjects" class="subjects" role="group" aria-label="Subjects"></div>
+        <div class="rail-search"><label class="eyebrow" for="search">02 / FIND A UNIVERSITY</label><div class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Name or region…" autocomplete="off" aria-controls="university-list" /></div><p id="search-count" class="search-count" aria-live="polite"></p><div id="university-list" class="university-list" aria-label="University results"></div></div>
+        <div class="rail-foot"><svg viewBox="0 0 80 38" aria-hidden="true"><path d="M1 36Q15 34 21 22T40 3Q55 8 59 22T79 36M10 36Q23 31 27 21T40 10Q51 15 53 25T68 36M24 35Q33 28 34 22T40 17Q47 21 48 28T55 35"/></svg><p>A little perspective.<br>A world of possibilities.</p></div>
+      </aside>
+      <div class="map-column">
+        <div class="map-topbar"><div><span class="eyebrow">THE EARNINGS LANDSCAPE</span><h2 id="map-subject">Computing</h2></div><div class="view-toggle" role="group" aria-label="Map view"><button id="flat-button" aria-pressed="true">▱ <span>Contours</span></button><button id="three-button" aria-pressed="false">△ <span>3D terrain</span></button></div></div>
+        <div id="map-stage" class="map-stage">
+          <div class="map-caption"><span class="tiny-dot"></span><span id="map-count">Loading official data…</span></div>
+          <div class="compass" aria-hidden="true">N<span>↑</span></div>
+          <div id="flat-map" class="flat-map"></div><div id="three-map" class="three-map" hidden></div>
+          <div class="sea-label north-sea" aria-hidden="true">NORTH SEA</div><div class="sea-label atlantic" aria-hidden="true">ATLANTIC<br>OCEAN</div>
+          <div class="map-controls" role="group" aria-label="Map controls"><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="reset" aria-label="Reset map view">↺</button></div>
+          <p class="map-hint" id="map-hint">Click a hill to explore a university <span>·</span> Scroll to zoom</p>
+          <div id="map-tooltip" class="map-tooltip" hidden></div>
+          <div id="map-error" class="map-error" hidden></div>
+        </div>
+        <div class="map-legend"><div class="legend-title"><span class="eyebrow">HIGHER HILLS, HIGHER EARNINGS</span><span>Median annualised earnings · 5 years after graduation</span></div><div class="legend-gradient"></div><div class="legend-ticks"><span>£0</span><span>£25k</span><span>£50k</span><span>£75k</span><span>£100k+</span></div><p>One fixed scale across subjects. Heights start at £0; terrain is a visual metaphor.</p><p>○ Unpublished earnings &nbsp; · &nbsp; Northern Ireland: not covered</p></div>
+      </div>
+      <aside id="detail-panel" class="detail-panel" aria-label="University details"></aside>
+    </section>
+    <section class="context-strip" aria-label="How to read this map"><div><span class="context-number">01</span><p><strong>A landscape, not a league table.</strong> Earnings are one part of a much bigger decision.</p></div><div><span class="context-number">02</span><p><strong>Where you studied, mapped.</strong> Graduates may live and work somewhere else.</p></div><button id="method-button" class="text-button">How to read the map <span aria-hidden="true">↗</span></button></section>
+  </main>
+  <footer><span>THE GRADUATE LANDSCAPE</span><p>DfE LEO · Crown copyright · <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank" rel="noreferrer">OGL v3.0</a> &nbsp; / &nbsp; Geography: Natural Earth · Locations: Wikidata</p><a href="https://github.com/arikhanacademic-cpu/graduate-landscape" target="_blank" rel="noreferrer">View project ↗</a></footer>
+  <dialog id="about-dialog" aria-labelledby="about-title"><button class="dialog-close" aria-label="Close data information">×</button><p class="eyebrow">BEHIND THE LANDSCAPE</p><h2 id="about-title">A map worth understanding.</h2><div id="methodology-content"></div></dialog>
+  <div id="live-status" class="sr-only" role="status" aria-live="polite"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
